@@ -13,7 +13,7 @@
 
 </div>
 
-Windows overlay for Where Winds Meet — boss tracking, loot filtering and cultivation clarity. Built for the open-world wuxia sandbox where every skill and every drop shapes your path. **100 million global players** as of August 2026[reference:0].
+Windows overlay for Where Winds Meet — boss tracking, loot filtering and cultivation clarity. Built for the open-world wuxia sandbox where every skill and every drop shapes your path. **100 million global players** as of August 2026.
 
 <details><summary>📑 <b>Contents</b></summary>
 
